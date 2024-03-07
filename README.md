@@ -1,8 +1,22 @@
-# teh-pucuk
-arnon0208
-# https://tea.xyz/what-is-this-file
----
-version: 1.0.0
-codeOwners:
-  - '0xe739D99092E1FC576816FC3302B019E4812a8555'
-quorum: 1
+{
+  "name": "arnon0208",
+  "version": "1.0.0",
+  "description": "arnon0208",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arnon0208",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnon0208/teh-pucuk.git"
+  },
+  "keywords": [
+    "teh",
+    "pucuk"
+  ],
+  "bugs": {
+    "url": "https://github.com/arnon0208/teh-pucuk/issues"
+  },
+  "
